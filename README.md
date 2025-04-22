@@ -48,6 +48,10 @@ Nutrition5k/
 
 This flow allows the model to learn from standard meals and generalize to healthier alternatives:
 
+### Step 0: Install dependencies
+Ensure the project originates in nutrition5k and the files are located where indicated above.
+pip install -r requirements.txt
+
 ### Step 1: Trim the Original Dataset
 Removes outliers and saves a cleaned version of the dataset.
 
