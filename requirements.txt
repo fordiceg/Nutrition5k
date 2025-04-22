@@ -1,0 +1,30 @@
+# Core ML + Data
+torch>=2.0
+torchvision
+transformers>=4.36
+pandas
+numpy
+scikit-learn
+Pillow
+tqdm
+matplotlib
+seaborn
+pyyaml
+
+# CLI + Progress
+ tqdm
+
+# Optional: Use if trimming from compressed sources
+# opencv-python
+
+# (Optional) If using mixed precision or torch.compile
+# torch==2.1.0+cu118  # or match your GPU setup
+
+# Visualization
+seaborn  # if you'd like enhanced plots
+
+# File I/O
+pyyaml  # for future config file support
+
+# Comment this line in if running in Jupyter
+# ipykernel
