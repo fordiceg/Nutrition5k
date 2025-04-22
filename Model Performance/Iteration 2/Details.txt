@@ -1,0 +1,29 @@
+Batch size 64
+Epochs 25
+Learning rate 1e-4
+Manually removed 2 smallest and 1 largest calorie values
+
+Calories | R2: 0.963 | MAE: 24.76
+Protein  | R2: 0.964 | MAE: 2.32
+Fat      | R2: 0.933 | MAE: 1.95
+Carbs    | R2: 0.952 | MAE: 2.24
+
+Pancakes.png
+=== Prediction ===
+Calories: 492.72
+ Protein: 39.22
+     Fat: 30.09
+   Carbs: 26.17
+
+Pancakes.bmp
+=== Prediction ===
+Calories: 450.12
+ Protein: 35.90
+     Fat: 27.26
+   Carbs: 25.65
+
+=== Actual ===
+Calories: 220
+Protein: 16
+Carbs: 14
+Fat: 11

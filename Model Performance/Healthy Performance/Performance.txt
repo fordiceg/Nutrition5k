@@ -1,0 +1,28 @@
+Average True Nutrient Values:
+Calories: 366.41
+Protein : 37.09
+Fat     : 10.76
+Carbs   : 30.32
+
+Average Adjusted Predicted Nutrient Values:
+Calories: 366.45
+Protein : 37.08
+Fat     : 10.76
+Carbs   : 30.32
+Calories | R2: -2.282 | MAE: 139.13
+Protein  | R2: -3.330 | MAE: 17.09
+Fat      | R2: -1.291 | MAE: 5.58
+Carbs    | R2: -0.409 | MAE: 12.72
+
+Pancakes
+=== Prediction without Modifier ===
+Calories: 784.26
+ Protein: 47.54
+     Fat: 52.20
+   Carbs: 44.37
+
+=== Prediction with Healthy Modifier ===
+Calories: 633.68
+ Protein: 60.61
+     Fat: 22.34
+   Carbs: 42.38

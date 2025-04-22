@@ -1,0 +1,8 @@
+Calories | Modifier: 0.808 (Actual: 366.41, Predicted: 453.49)
+Protein  | Modifier: 1.275 (Actual: 37.09, Predicted: 29.08)
+Fat      | Modifier: 0.428 (Actual: 10.76, Predicted: 25.14)
+Carbs    | Modifier: 0.955 (Actual: 30.32, Predicted: 31.75)
+Calories | R2: -4.664 | MAE: 182.95
+Protein  | R2: -2.693 | MAE: 16.70
+Fat      | R2: -15.778 | MAE: 16.40
+Carbs    | R2: -0.462 | MAE: 12.97
